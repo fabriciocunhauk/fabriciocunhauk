@@ -7,6 +7,6 @@ with a simple "Hello World" has become a full-fledged passion that only gets mor
 
 Would you like to find me?
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://www.youtube.com/channel/UCwmFwHHnWhL6p_OrzKkeWpQ?view_as=subscriber)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/fabriciocunhadv)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/fabricio-cunha-7b7392162/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCwmFwHHnWhL6p_OrzKkeWpQ?view_as=subscriber)](https://www.youtube.com/channel/UCwmFwHHnWhL6p_OrzKkeWpQ?view_as=subscriber)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabriciocunhadv)](https://twitter.com/fabriciocunhadv)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-cunha-7b7392162/)](https://www.linkedin.com/in/fabricio-cunha-7b7392162/)

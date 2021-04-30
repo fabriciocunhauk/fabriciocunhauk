@@ -17,5 +17,5 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciocunhadeveloper@gmail.com)](mailto:fabriciocunhadeveloper@gmail.com)
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/fabriciocunhauk/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/fabriciocunhauk)
 

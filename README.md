@@ -8,7 +8,7 @@ with a simple "Hello World" has become a full-fledged passion that only gets mor
 Would you like to find me?
 
 
-[![][Website badge]][https://fabriciocunha.co.uk]
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://fabriciocunha.co.uk/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabriciocunhauk)](https://github.com/fabriciocunhauk)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/93508/lucas-bittencourt)](https://stackoverflow.com/users/13144771/fabricio-cunha)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCwmFwHHnWhL6p_OrzKkeWpQ?view_as=subscriber)](https://www.youtube.com/channel/UCwmFwHHnWhL6p_OrzKkeWpQ?view_as=subscriber)
@@ -17,4 +17,3 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciocunhadeveloper@gmail.com)](mailto:fabriciocunhadeveloper@gmail.com)
 
 
-[![fabriciocunhauk github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)

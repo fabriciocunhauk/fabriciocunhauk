@@ -16,3 +16,6 @@ Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-cunha-7b7392162/)](https://www.linkedin.com/in/fabricio-cunha-7b7392162/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciocunhadeveloper@gmail.com)](mailto:fabriciocunhadeveloper@gmail.com)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciocunhauk&show_icons=true&theme=radical)
+
+

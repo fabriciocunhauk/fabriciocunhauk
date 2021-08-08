@@ -17,5 +17,7 @@ Would you like to find me?
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabriciocunhadeveloper@gmail.com)](mailto:fabriciocunhadeveloper@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciocunhauk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocunhauk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 

@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Hi there! 😁 🇧🇷🇬🇧
 
 My name is Fabricio Cunha from Brazil (🇧🇷). From the moment I produced "Hello World" in the console of my first application, I knew I was hooked into
 the world of software development. But software development has never been "just a job" for me, it's offered an
